@@ -14,7 +14,7 @@ Each row of the dataset is a single game with the following features (in the ord
 
 4. Game type (eg. Ranked)
 
-5. - end: Each element is an indicator for a hero. Value of 1 indicates that a player from team '1' played as that hero and '-1' for the other team. Hero can be selected by only one player each game. This means that each row has five '1' and five '-1' values.
+5. to end: Each element is an indicator for a hero. Value of 1 indicates that a player from team '1' played as that hero and '-1' for the other team. Hero can be selected by only one player each game. This means that each row has five '1' and five '-1' values.
 
 #### Algorithms:
 
